@@ -37,4 +37,9 @@ from PIR®'s private desk repository by the Tech Committee's build (`alex-desk/s
 automatically by the *Public Mirror Bot*, so changes are made at the source and pull requests here can't be merged.
 Ideas or corrections? Open a ticket with `/techcom`.
 
+## 📄 License
+- 💻 **Portal code:** MIT, see [`LICENSE`](LICENSE)
+- 📚 **Literature and written content:** all rights reserved, see [`LICENSE-CONTENT`](LICENSE-CONTENT)
+- 🏷️ **Names, logos and marks:** not licensed, see [`TRADEMARKS.md`](TRADEMARKS.md)
+
 <sub>PIR® and Psychedelics In Recovery™ are marks of Psychedelics In Recovery, a 501(c)(3) nonprofit.</sub>
