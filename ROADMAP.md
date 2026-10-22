@@ -20,4 +20,9 @@
 
 - 📌 **A living status board:** a pinned Discord message that updates itself as tickets move.
 
-*Maintained by Christopher W with Alfred (Claude Code). Last reviewed 2026-10-13.*
+## 🤝 Stewardship and succession
+
+- [ ] Publish this page through org-owned automation instead of a personal token, with the token's
+  expiry in PIR's token register ([the plan](https://psychedelicsinrecovery.github.io/changelog-astro-public/sustainability))
+
+*Maintained by Christopher W with Alfred (Claude Code). Last reviewed 2026-10-22.*

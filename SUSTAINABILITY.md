@@ -27,4 +27,13 @@ so none of it depends on anyone's memory.
 | 🎫 **Tickets reaching the Literature Committee** | A.L.E.X. writes tickets here with its own access; the committee's Discord role and channel are configured on A.L.E.X.'s side. | If tickets stop arriving, see the tokens section of A.L.E.X.'s sustainability page. |
 | 🔒 **Privacy** | Tickets stay private in this repository; only the page is public. | Never put a ticket, a name or an email address in `portal/`. |
 
-*Maintained by Christopher W with Alfred (Claude Code). Last reviewed 2026-10-13.*
+## 🤝 Stewardship and succession
+
+Today drasticstatic (Christopher W) administers PIR®'s GitHub organization and holds the personal token
+that publishes this page (`PUBLIC_REPO_TOKEN`), which makes him a single point of failure: if he stepped
+away, the token would expire on schedule and this page would quietly stop updating. The plan to change
+that (two owners for the organization, org-owned automation instead of personal tokens, a token register
+with expiry dates, a renewal runbook, hand-over steps and scheduled backups, tickets included) is on the
+AstroLog's [sustainability page](https://psychedelicsinrecovery.github.io/changelog-astro-public/sustainability).
+
+*Maintained by Christopher W with Alfred (Claude Code). Last reviewed 2026-10-22.*
